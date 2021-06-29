@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/developmentwebru/chat-with-firebase/static/css/main.6457db55.chunk.css",
+    "main.js": "/developmentwebru/chat-with-firebase/static/js/main.122ed5a7.chunk.js",
+    "main.js.map": "/developmentwebru/chat-with-firebase/static/js/main.122ed5a7.chunk.js.map",
+    "runtime-main.js": "/developmentwebru/chat-with-firebase/static/js/runtime-main.f8a08be9.js",
+    "runtime-main.js.map": "/developmentwebru/chat-with-firebase/static/js/runtime-main.f8a08be9.js.map",
+    "static/js/2.eea91020.chunk.js": "/developmentwebru/chat-with-firebase/static/js/2.eea91020.chunk.js",
+    "static/js/2.eea91020.chunk.js.map": "/developmentwebru/chat-with-firebase/static/js/2.eea91020.chunk.js.map",
+    "index.html": "/developmentwebru/chat-with-firebase/index.html",
+    "static/css/main.6457db55.chunk.css.map": "/developmentwebru/chat-with-firebase/static/css/main.6457db55.chunk.css.map",
+    "static/js/2.eea91020.chunk.js.LICENSE.txt": "/developmentwebru/chat-with-firebase/static/js/2.eea91020.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8a08be9.js",
+    "static/js/2.eea91020.chunk.js",
+    "static/css/main.6457db55.chunk.css",
+    "static/js/main.122ed5a7.chunk.js"
+  ]
+}
